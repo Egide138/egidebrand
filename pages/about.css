@@ -1,0 +1,48 @@
+.background-color{
+    background-color:black;
+    color:white;
+    height:250px;
+    padding:2opx;
+
+
+}
+.image1-size{
+    width:400px;
+    height: 500px;
+    padding-left: 300px;
+}
+.background-colorfooter{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+}
+.aligndata{
+    display:flex;
+}
+p{
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right:100px
+}
+.aligndata h2{
+    padding-left: 500px;
+    padding-top: 60px;
+}
+.aligndata h1{
+    padding-left: 150px;
+    padding-top: 25px;
+    font-size:50px;
+}
+.aligndata h3{
+    padding-left: 40px;
+    position: relative;
+    left:300px;
+    top:20px;  
+}
+.aligndata p{
+    
+    padding-left: 200px;
+    font-size:20px;
+}
+
+
