@@ -38,7 +38,7 @@ padding:20px;
 .nav-position a{
         text-decoration: none;
     }
-}
+
 .middle{
     margin-left: 450px;
     margin-top:o ;
@@ -97,6 +97,12 @@ padding:20px;
     position:relative;
     left:70px;
     top:10px;
+}
+.homeback{
+    background-color: #2FBFC8;
+    width: 5%;
+    height: 100%;
+    text-align: center;
 }
 
 
