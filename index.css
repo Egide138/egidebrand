@@ -33,6 +33,11 @@ padding:20px;
     position: relative;
     left: 300px;
     margin-left: 40px;
+    color:white;
+}
+.nav-position a{
+        text-decoration: none;
+    }
 }
 .middle{
     margin-left: 450px;

@@ -44,5 +44,8 @@ p{
     padding-left: 200px;
     font-size:20px;
 }
-
+.aligndata a{
+    text-decoration: none;
+    color:white;
+}
 

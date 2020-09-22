@@ -75,4 +75,8 @@ button {
     position: relative;
     left: 600px;
 }
+.aligndata a{
+    text-decoration: none;
+    color: white;
+}
 
