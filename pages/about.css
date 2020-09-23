@@ -34,14 +34,14 @@ p{
     font-size:50px;
 }
 .aligndata h3{
-    padding: 20px;
+    padding-left: 40px;
     position: relative;
-    left:300px;
-    top: 5px;
+    left:350px;
+    top: 15px;
 }
 .aligndata p{
     
-    padding-left: 200px;
+   text-align: center;
     font-size:20px;
 }
 .aligndata a{
@@ -50,8 +50,7 @@ p{
 }
 .homeback{
     background-color: #2FBFC8;
-    width: 50%;
-    height: 5%;
-   margin-top: 1em;
+    width: 70px;
+    height: 30px;
 }
 

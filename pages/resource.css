@@ -37,6 +37,11 @@ button {
 }
 .aligndata2 h2{
     text-align: center;
+    background-color: #222;
+    padding: 20px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    color: white;
 }
 
 .container3 {
