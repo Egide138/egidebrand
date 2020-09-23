@@ -36,7 +36,7 @@ input[type=text], input[type=password] {
   display: flex;
   border: 1px solid #000;
   background-color: #DBD7D7;
-  
+  border-radius: 10px;
 
 }
 
@@ -48,7 +48,7 @@ button {
   border: none;
   cursor: pointer;
   width: 20%;
-  
+  border-radius: 10px;
 }
 .aligndata2 h2{
     text-align: center;
@@ -64,4 +64,5 @@ button {
     background-color: #2FBFC8;
     width: 90%;
     height: 50%;
+    border-radius: 10px;
 }
