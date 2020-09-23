@@ -62,9 +62,10 @@ button {
 }
 .homeback{
     background-color: #2FBFC8;
-    width: 90%;
+    width: 80%;
     height: 50%;
-    text-align: center;
+    padding-top: 2px;
+    
 
 }
 

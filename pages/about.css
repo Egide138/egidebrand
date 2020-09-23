@@ -34,10 +34,10 @@ p{
     font-size:50px;
 }
 .aligndata h3{
-    padding-left: 40px;
+    padding: 20px;
     position: relative;
     left:300px;
-    top:20px;  
+    top: 5px;
 }
 .aligndata p{
     
@@ -50,9 +50,8 @@ p{
 }
 .homeback{
     background-color: #2FBFC8;
-    width: 90%;
-    height: 50%;
-    text-align: center;
-
+    width: 50%;
+    height: 5%;
+   margin-top: 1em;
 }
 
