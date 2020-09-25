@@ -36,7 +36,7 @@ input[type=text], input[type=password] {
   display: flex;
   border: 1px solid #000;
   background-color: #DBD7D7;
-  
+  border-radius: 10px;
 
 }
 
@@ -48,6 +48,7 @@ button {
   border: none;
   cursor: pointer;
   width: 40%;
+  border-radius: 10px;
   
 }
 .aligndata2 h2{
@@ -55,6 +56,7 @@ button {
 }
 .container2{
     margin-left: 400px;
+    background-color: var(--bg-overlay-color);
 }
 .aligndata a{
     text-decoration: none;
@@ -68,4 +70,6 @@ button {
     border-radius: 10px;
 
 }
-
+h3:hover{
+    color: yellow;
+   }

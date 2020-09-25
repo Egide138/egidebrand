@@ -76,6 +76,7 @@ button {
 .container2{
     position: relative;
     left: 600px;
+    background-color: var(--bg-overlay-color);
 }
 .aligndata a{
     text-decoration: none;
@@ -87,5 +88,7 @@ button {
     height: 50%;
     border-radius: 10px;
 }
-
+h3:hover{
+    color: yellow;
+   }
 
